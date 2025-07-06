@@ -1,0 +1,4 @@
+C:\Users\iniku\OneDrive\Документы\4 ЦНИИ\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iniku\OneDrive\Документы\4 ЦНИИ\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\iniku\OneDrive\Документы\4 ЦНИИ\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\iniku\OneDrive\Документы\4 ЦНИИ\ConsoleApp4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.csproj.CoreCompileInputs.cache
